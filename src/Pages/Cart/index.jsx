@@ -120,7 +120,7 @@ const CartPage = () => {
 
             <p className="flex items-center justify-between">
               <span className="text-[14px] font-[500]">Estimate for</span>
-              <span className="font-bold">United Kingdom</span>
+              <span className="font-bold">INDIA</span>
             </p>
 
             <p className="flex items-center justify-between">
