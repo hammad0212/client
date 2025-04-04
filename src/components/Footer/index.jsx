@@ -87,7 +87,7 @@ const Footer = () => {
               </Link>
 
               <span className="text-[22px] font-[600] block w-full mt-3 mb-5 text-primary">
-                (+91) 9876-543-210
+                (+91) 9104841296
               </span>
 
               <div className="flex items-center gap-2">
